@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Caneta Vermelha",
+      "price": "5",
+      "id": 2
+    },
+    {
+      "name": "Congelador",
+      "price": "20",
+      "id": 3
+    }
+  ]
+}
