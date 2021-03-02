@@ -7,8 +7,13 @@
     },
     {
       "name": "Congelador",
-      "price": "20",
+      "price": "34",
       "id": 3
+    },
+    {
+      "name": "Guanabaration 3000",
+      "price": "500",
+      "id": 4
     }
   ]
 }
